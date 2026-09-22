@@ -154,16 +154,6 @@ libero_goal
 
 
 
-详细结果文件：
-
-
-results/
-├── libero_goal_result.json
-└── evaluation_summary.md
-
-
-
----
 
 
 模型代码和预训练权重来源于 OpenGalaxea 官方项目。
